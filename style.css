@@ -1,0 +1,44 @@
+header{
+font-size: xx-large;
+background-color: blue;
+background-origin: content-box;
+font-style:oblique;
+font-stretch: ultra-expanded;
+border-block-end-style:hidden;
+margin-top:initial;
+padding-top: 50px;
+text-align:left; 
+color: white;
+text-align:inherit;
+border-style:solid;
+
+
+
+}
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-colorwhite;
+    color:silver;
+    text-align: center;
+ }
+
+
+ table {
+
+border-spacing: 12mm;
+box-shadow: aliceblue;
+border-bottom: beige;
+border-bottom-width: 12mm;
+    width: 300px;
+   border-bottom: ;
+    border: 1px solid silver;
+     text-align:center;
+     border-top: 12mm;
+ 
+     
+  }
